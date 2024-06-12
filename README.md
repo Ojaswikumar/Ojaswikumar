@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ojaswi Kumar</h1>
-<h3 align="center">A passionate Tech Ethusiast</h3>
-<img align="right" alt="Coding" width="400" 
-- 🔭 I’m currently working on various Data Science projects focusing on Python with NumPy and Pandas, PySpark, and Power BI.
+## A passionate Tech Enthusiast
 
-- 🌱 I’m proficient in Programming Technologies like C, SQL, MATLAB,C++ and Python.
-
+- 🛠️ I'm currently working on various Data Science projects focusing on Python with NumPy and Pandas, PySpark, and Power BI.
+- 🌱 I'm proficient in Programming Technologies like C, SQL, MATLAB, C++, and Python.
 - 💡 In Machine Learning (ML) and Deep Learning (DL), my expertise lies in Model Selection, Natural Language Toolkit (NLTK), Recurrent Neural Networks (RNN), Natural Language Processing (NLP), PyTorch, Keras, TensorFlow, Scikit-Learn, Convolutional Neural Networks (CNN), and more.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ojaswi-kumar-838422240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojaswikumar" height="30" width="40" /></a>
