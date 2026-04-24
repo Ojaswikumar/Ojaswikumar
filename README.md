@@ -1,4 +1,4 @@
-# An Associate Engineer  
+# Associate Engineer  
 
 Welcome to my GitHub profile! I am an Associate Engineer working on building practical solutions using software development, automation, and AI-driven approaches.
 
